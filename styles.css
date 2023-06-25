@@ -6,6 +6,16 @@ body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   scroll-behavior: smooth;
 }
+.alert {
+  background-color: rgb(189, 20, 20);
+  color: #ebeae8;
+  font-size: large;
+  margin: 0px;
+  height: 32px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
 
 header {
   background-color: aliceblue;
