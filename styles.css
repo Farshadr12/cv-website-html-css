@@ -129,3 +129,102 @@ footer {
   height: max-content;
 }
 /* Bellow Is css for about me page */
+.aboutHero {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin: auto auto;
+}
+.deviderLine {
+  width: 80px;
+  height: 0px;
+  border: solid 2px rgb(52, 183, 167);
+}
+hero div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 36px;
+}
+hero div img {
+  width: max-content;
+  height: max-content;
+}
+.details {
+  flex-direction: column;
+  text-align: left;
+  align-items: start;
+  padding-left: 36px;
+}
+.skillsSec {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin: auto auto;
+}
+.skillbarsec {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.skillbarsec div {
+  width: 95%;
+}
+.progressbar {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  margin: 0;
+}
+.infobar {
+  display: flex;
+  justify-content: space-between;
+}
+.barchart {
+  background-color: #faa700;
+  height: 8px;
+  width: 100%;
+  border-radius: 5px;
+}
+.barhtml {
+  width: 90%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
+.barcss {
+  width: 70%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
+.barjs {
+  width: 20%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
+.barpy {
+  width: 60%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
+.barwp {
+  width: 70%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
+.barph {
+  width: 80%;
+  background-color: red;
+  height: inherit;
+  border-radius: 5px;
+}
